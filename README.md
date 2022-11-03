@@ -1,4 +1,4 @@
-# Creative Theme for Jekyll
+# American Heroes Scholarship
 
 A Jekyll implementation of the [Creative Theme](https://startbootstrap.com/theme/creative/) template by [Start Bootstrap](https://startbootstrap.com).
 
