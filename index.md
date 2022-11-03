@@ -60,18 +60,17 @@ sections:
     actions:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
-          2017-2018
+          2022
           **Humble Beginnings**
         text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
-      - image: assets/img/portfolio/thumbnails/2.jpg
+          We begun with small group of people willing to work hard and make sure our
+          veteran families children have the means neccessary to have a great education!
+      - image: [highschool kid](https://user-images.githubusercontent.com/117368513/199777225-085f5c5c-52dd-457f-b158-654641bba30e.jpg)
         title: >+
-          November 2019
-          An Coaching started
-        text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+          January 2023 
+          First Scholarships
+        text: >-In January of 2023 we awarded our first scholarships veteran families.
+          
 
   - type: contact.html
     section_id: contacts
