@@ -42,20 +42,14 @@ sections:
     #background_style: bg-dark
     projects:
       
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
 
   
 
   - type: timeline.html
     section_id: timeline
     title: Major Achievements!
-    background_style: bg-dark text-primary
+    background_style: ![military study](https://user-images.githubusercontent.com/117368513/199778389-7b2a0db1-aed2-41e0-bab4-939003dbbf04.JPG)
+
     last_image: assets/img/timeline-end.png
     actions:
       - image: assets/img/portfolio/thumbnails/1.jpg
