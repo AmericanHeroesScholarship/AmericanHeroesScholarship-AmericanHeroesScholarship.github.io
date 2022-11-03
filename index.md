@@ -1,24 +1,23 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: American Heroes Scholarship
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Providing Scholarships to the Children of Active and Retired Veterans
   action: # action button is optional
-    label: Find Out More
-    url: '#about'
+    label: Donate Today
+    url: '#https://www.paypal.com/paypalme/americanheroesdonate?country.x=US&locale.x=en_US'
 
 
 sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: American Heroes Scholarship is a non-profit building the educational and economic future of high school and college students.
+    text: The American Heroes Scholarship Foundation’s scholarship programs are designed to encourage and support outstanding underprivileged students who work hard and have financial needs. Our scholarships provide financial assistance and academic support to the children of active and retired Veterans.
     actions:
-      - title: Get Started!
-        url: '#page-top'
+      - title: Donate Today
+        url: #https://www.paypal.com/paypalme/americanheroesdonate?country.x=US&locale.x=en_US''
         class: btn-light
 
   - type: services.html
