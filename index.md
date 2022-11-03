@@ -23,27 +23,18 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: Scholarships You can Apply for
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: Day Care Scholarships
+        text: Active Duty or Retired Veterans can apply for financial help for Day Care.
         icon: fa-gem text-info
         url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+      - title: High school Scholarships
+        text: Children of Active Duty or Retired Veterans can apply for financial help during high school.
         icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
+      - title: College Scholarships
+        text: Children of Active Duty or Retired Veterans can apply for financial help during College.
         icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
