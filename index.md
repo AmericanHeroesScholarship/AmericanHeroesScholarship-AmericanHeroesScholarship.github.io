@@ -48,7 +48,7 @@ sections:
   - type: timeline.html
     section_id: timeline
     title: Major Achievements!
-    background_style: ![military study](https://user-images.githubusercontent.com/117368513/199778389-7b2a0db1-aed2-41e0-bab4-939003dbbf04.JPG)
+    background_style: bg-dark text-primary
 
     last_image: assets/img/timeline-end.png
     actions:
